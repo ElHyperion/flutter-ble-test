@@ -1,6 +1,6 @@
-# bletest
+# Flutter BLE test
 
-A simple example app to test the BLE connection capabilities of Flutter using Flutter reactive BLE library.
+A simple example app to test the Bluetooth Low Energy (BLE) connection capabilities of Flutter using Flutter reactive BLE library.
 
 Provides a simple interface to scan and connect to devices.
 
