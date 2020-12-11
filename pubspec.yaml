@@ -1,0 +1,22 @@
+name: bletest
+description: A simple example app to test the BLE connection capabilities of Flutter using Flutter reactive BLE library.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.9.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^3.17.1
+  flutter_reactive_ble: ^2.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
